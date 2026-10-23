@@ -1,5 +1,5 @@
 # 🐍 Python 101 - Eğitim Materyalleri
-Bu depo, 2026-2027 Döneminde Yönetim Kurulu Üyesi olduğum **Eskişehir Teknik Üniversitesi (ESTÜ) Yazılım Kulübü** adına hazırladığım ve sunduğum **Python 101** eğitiminin tüm materyallerini içermektedir.
+Bu depo, **Eskişehir Teknik Üniversitesi (ESTÜ) Yazılım Kulübü** adına hazırladığım ve sunduğum **Python 101** eğitiminin tüm materyallerini içermektedir.
 
 Sıfırdan başlayan yazılım meraklıları için tasarlanan bu eğitim; yalnızca Python'un sözdizimini değil, genel yazılım konseptlerini, modüler mimariyi ve temiz kod yazma prensiplerini uygulamalı olarak öğretmeyi hedefler.
 İsteyen tüm eğitmenlerin ve yazılım öğrenmek isteyen herkesin özgür kullanımına açıktır.
@@ -26,12 +26,12 @@ Eğitim slaytı ve kod örnekleri aşağıdaki konu başlıklarını sırasıyla
 5. **Fonksiyonlar**
 
    * Fonksiyon tanımlama (`def`, `return`).
-   * Parametre türleri (Konumsal, Keyword, Varsayılan, `\*args`).
+   * Parametre türleri (Konumsal, Keyword, Varsayılan, `*args`).
    * Kapsam (Local ve Global değişkenler).
 6. **Nesne Yönelimli Programlama (OOP)**
 
    * `Class`, `Object`, `Attribute` ve `Method` kavramları.
-   * Yapıcı metot (`\_\_init\_\_`) ve `self` anahtar kelimesi.
+   * Yapıcı metot (`__init__`) ve `self` anahtar kelimesi.
    * Nesne yönelimli düşünme (Klima örneği üzerinden modelleme).
 7. **Yazılım Prensipleri**
 
@@ -61,7 +61,7 @@ Repoyu bilgisayarınıza indirdiğinizde aşağıdaki düzen ile karşılaşacak
 │   ├── uygulama_1.py
 │   ├── ...
 │   └── uygulama_6.py
-├── son_proje/                     # Modüler mimari ile yazılmış bitirme projesi
+├── Son_Proje/                     # Modüler mimari ile yazılmış bitirme projesi
 │   ├── src/
 │   │   ├── araclar.py
 │   │   ├── ogrenci_yonetimi.py
@@ -91,7 +91,7 @@ Projeyi kendi bilgisayarınızda çalıştırmak için:
 3. İncelemek istediğiniz dosyayı Python ile çalıştırın. Örneğin:
 
 ```bash
-   python Uygulamalar/uygulama\_4.py
+   python Uygulamalar/uygulama_4.py
    ```
 
 ## 📄 Lisans
