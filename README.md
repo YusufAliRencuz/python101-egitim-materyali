@@ -3,7 +3,7 @@ Bu depo, 2026-2027 Döneminde Yönetim Kurulu Üyesi olduğum **Eskişehir Tekni
 
 Sıfırdan başlayan yazılım meraklıları için tasarlanan bu eğitim; yalnızca Python'un sözdizimini değil, genel yazılım konseptlerini, modüler mimariyi ve temiz kod yazma prensiplerini uygulamalı olarak öğretmeyi hedefler.
 İsteyen tüm eğitmenlerin ve yazılım öğrenmek isteyen herkesin özgür kullanımına açıktır.
-\---
+
 ## 📚 Eğitim İçeriği (Müfredat)
 Eğitim slaytı ve kod örnekleri aşağıdaki konu başlıklarını sırasıyla takip etmektedir:
 1. **Neden Python?**
@@ -45,7 +45,6 @@ Eğitim slaytı ve kod örnekleri aşağıdaki konu başlıklarını sırasıyla
 
    * Öğrencileri rastgele gruplandıran modüler mimarili bitirme projesi.
 
-\---
 
 ## 📂 Dosya Yapısı
 
