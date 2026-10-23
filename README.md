@@ -52,19 +52,19 @@ Repoyu bilgisayarınıza indirdiğinizde aşağıdaki düzen ile karşılaşacak
 
 ```text
 ├── Sunum/
-│   └── Python101\_Sunumu.pdf       # Eğitimin ana sunum dosyası
+│   └── Python101_Sunumu.pdf       # Eğitimin ana sunum dosyası
 ├── Ornekler/                      # Konu anlatımları sırasındaki teorik kod örnekleri
-│   ├── ornek\_1.py
+│   ├── ornek_1.py
 │   ├── ...
-│   └── ornek\_11.py
+│   └── ornek_11.py
 ├── Uygulamalar/                   # Gerçek hayat senaryolarını simüle eden mini pratikler
-│   ├── uygulama\_1.py
+│   ├── uygulama_1.py
 │   ├── ...
-│   └── uygulama\_6.py
+│   └── uygulama_6.py
 ├── son\_proje/                     # Modüler mimari ile yazılmış bitirme projesi
 │   ├── src/
 │   │   ├── araclar.py
-│   │   ├── ogrenci\_yonetimi.py
+│   │   ├── ogrenci_yonetimi.py
 │   │   └── sistem.py
 │   └── main.py
 ├── .gitignore
