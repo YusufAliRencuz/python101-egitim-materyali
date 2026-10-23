@@ -52,7 +52,7 @@ Repoyu bilgisayarınıza indirdiğinizde aşağıdaki düzen ile karşılaşacak
 
 ```text
 ├── Sunum/
-│   └── Python101_Sunumu.pdf       # Eğitimin ana sunum dosyası
+│   └── Python101_Sunumu.pptx      # Eğitimin ana sunum dosyası
 ├── Ornekler/                      # Konu anlatımları sırasındaki teorik kod örnekleri
 │   ├── ornek_1.py
 │   ├── ...
