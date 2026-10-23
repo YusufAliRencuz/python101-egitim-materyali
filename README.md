@@ -1,4 +1,4 @@
-# 🐍 Python 101 - ESTÜ Yazılım Kulübü Eğitim Materyalleri
+# 🐍 Python 101 - Eğitim Materyalleri
 Bu depo, 2026-2027 Döneminde Yönetim Kurulu Üyesi olduğum **Eskişehir Teknik Üniversitesi (ESTÜ) Yazılım Kulübü** adına hazırladığım ve sunduğum **Python 101** eğitiminin tüm materyallerini içermektedir.
 
 Sıfırdan başlayan yazılım meraklıları için tasarlanan bu eğitim; yalnızca Python'un sözdizimini değil, genel yazılım konseptlerini, modüler mimariyi ve temiz kod yazma prensiplerini uygulamalı olarak öğretmeyi hedefler.
