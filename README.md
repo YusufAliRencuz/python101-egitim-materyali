@@ -61,7 +61,7 @@ Repoyu bilgisayarınıza indirdiğinizde aşağıdaki düzen ile karşılaşacak
 │   ├── uygulama_1.py
 │   ├── ...
 │   └── uygulama_6.py
-├── son\_proje/                     # Modüler mimari ile yazılmış bitirme projesi
+├── son_proje/                     # Modüler mimari ile yazılmış bitirme projesi
 │   ├── src/
 │   │   ├── araclar.py
 │   │   ├── ogrenci_yonetimi.py
